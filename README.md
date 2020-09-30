@@ -5,5 +5,5 @@ If you like it give it a star.
 Do take a look..
 Some snaps of it are down:--
 
-![](images/capture1)
-![](images/capture2)
+![](images/capture1.png)
+![](images/capture2.png)
